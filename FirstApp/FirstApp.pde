@@ -1,0 +1,18 @@
+size(400,400);
+background(255);
+smooth();
+stroke(204,102,0);
+strokeWeight(3);
+line(10,20, 50,150);
+strokeWeight(5);
+point(50,20);
+stroke(128);
+line(1/width,1/height,300,300);
+strokeWeight(3);
+fill(0);
+rect(100,20,40,80);
+fill(0,128,100);
+rect(200,80,48,89);
+rectMode(CENTER);
+rect(200,200,100,100);
+ellipse(350,350,40,41);
